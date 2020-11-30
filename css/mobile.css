@@ -1,0 +1,22 @@
+main {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-image: url("../images/bg-pattern-top-mobile.svg"), url("../images/bg-pattern-bottom-mobile.svg");
+}
+#heading{
+    width: 100%;
+}
+#heading h1 {
+    font-size: 32px;
+}
+.raiting-box {
+    width: 100%!important;
+    flex-direction: column;
+}
+#raiting .raiting-box .stars {
+    margin-bottom: 15px;
+}
+
+#container2 .message-box {
+    width: 100%;
+}
